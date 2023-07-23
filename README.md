@@ -1,8 +1,8 @@
 - 💞️ Hi, I’m Piyali
-- 🌱 I’m interested in Animals and poor people
+- 🌱 I’m interested in animals and poor people
 - 💃 I’m currently learning how not to worry to much
 - 📒 I’m looking to collaborate on being human and let people do what they love and not code for the sake of it
-- 📫 How to reach me - cpiyac@gmail.com
+- 📫 Reach me thru _cpiyac@gmail.com_
 - 👀 I have had multiple github accounts earlier with zero projects in them
 - ❤️‍🩹 Hopefully, I learn to stick and make others life easier with code written literally in English language (like pseudo code!)
 - 🌏 You are traveling even when you are asleep
